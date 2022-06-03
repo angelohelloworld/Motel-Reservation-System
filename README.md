@@ -14,6 +14,8 @@
 
 ### Features:
 
+•	Object-oriented program
+
 •	CRUD (Create, Read, Update, Delete)
 
 •	View all rooms
